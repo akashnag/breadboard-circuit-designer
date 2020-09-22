@@ -174,9 +174,6 @@ class MainWindow extends javax.swing.JFrame implements AdjustmentListener
         String piracyText="All Rights Reserved. Unauthorized reproduction of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.";
         lblPiracyWarning.setText(htmlHeader+piracyText+htmlFooter);
         
-        //String thanksText="Special thanks to these lovely women of the 2018 Batch of B.Sc.(Computer Science) of MUC Women's College, Burdwan:<br/><br/>Anindita Pal, Prathama Dey, Sujata Sarkar, Sonali Mondal, Debasmita Roy, Anusuya Garai, Genius Khatun, Arpita Ghosh, Sayani Banerjee, Kabita Mondal, Sudeshna Dutta, Ekta Mishra, Susmita Guha, Papri Mondal, Soumita Garai, Debalina Dutta, Baisakhi Roy, Sucharita Sinha, and Nishi Ahir.";
-        //lblThanks.setText(htmlHeader+thanksText+htmlFooter);
-        
         jLabel2.setText("\u0041\u006b\u0061\u0073\u0068\u0020\u004e\u0061\u0067");
         // ---------------------------------------------------------
         
